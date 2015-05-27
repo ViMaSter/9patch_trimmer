@@ -7,7 +7,7 @@ using System.IO;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace csv_concatenator
+namespace ninepatch_trimmer
 {
     class Program
     {
@@ -42,7 +42,7 @@ namespace csv_concatenator
                     }
                 }
 
-                target.Save(pathToFile.Replace(".png", ".9patch.png"));
+                target.Save(pathToFile.Replace(".png", ".ninepatch.png"));
             }
 
             Console.WriteLine("");

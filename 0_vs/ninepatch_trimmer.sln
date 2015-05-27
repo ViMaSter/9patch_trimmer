@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9patch_trimmer", "9patch_trimmer\9patch_trimmer.csproj", "{E0F322C6-6540-4147-86E4-3060C7DE346B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ninepatch_trimmer", "ninepatch_trimmer\ninepatch_trimmer.csproj", "{E0F322C6-6540-4147-86E4-3060C7DE346B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

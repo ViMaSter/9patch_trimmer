@@ -1,0 +1,5 @@
+H:\projects\2015_28_thebarbershop\git\5_tools\ninepatch_trimmer\0_vs\ninepatch_trimmer\bin\Debug\ninepatch_trimmer.exe.config
+H:\projects\2015_28_thebarbershop\git\5_tools\ninepatch_trimmer\0_vs\ninepatch_trimmer\bin\Debug\ninepatch_trimmer.exe
+H:\projects\2015_28_thebarbershop\git\5_tools\ninepatch_trimmer\0_vs\ninepatch_trimmer\bin\Debug\ninepatch_trimmer.pdb
+H:\projects\2015_28_thebarbershop\git\5_tools\ninepatch_trimmer\0_vs\ninepatch_trimmer\obj\Debug\ninepatch_trimmer.exe
+H:\projects\2015_28_thebarbershop\git\5_tools\ninepatch_trimmer\0_vs\ninepatch_trimmer\obj\Debug\ninepatch_trimmer.pdb
